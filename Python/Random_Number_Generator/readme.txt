@@ -1,5 +1,2 @@
-Began:
-	Night of January 25, 2026
-	Early Morning of January 26, 2026
-
-	Setup txt file and solution py file
+A project that generates random numbers
+Solution is expected to have one file and uses the random library
